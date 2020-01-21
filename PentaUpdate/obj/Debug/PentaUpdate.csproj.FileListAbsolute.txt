@@ -1,0 +1,20 @@
+C:\Proyectos VB.Net\PentaUpdate\PentaUpdate.exe.config
+C:\Proyectos VB.Net\PentaUpdate\PentaUpdate.exe
+C:\Proyectos VB.Net\PentaUpdate\PentaUpdate.pdb
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.Form1.resources
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.Properties.Resources.resources
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.exe
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.pdb
+C:\Users\Martin\source\repos\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.csprojAssemblyReference.cache
+\\MARTIN\c\Proyectos VB.Net\PentaUpdate\Output\PentaUpdate.exe.config
+\\MARTIN\c\Proyectos VB.Net\PentaUpdate\Output\PentaUpdate.exe
+\\MARTIN\c\Proyectos VB.Net\PentaUpdate\Output\PentaUpdate.pdb
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.csprojAssemblyReference.cache
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.Form1.resources
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.Properties.Resources.resources
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.csproj.GenerateResource.cache
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.csproj.CoreCompileInputs.cache
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.exe
+\\MARTIN\c\Users\Martin\source\repos\LeanLarroza\PentaUpdate\PentaUpdate\obj\Debug\PentaUpdate.pdb
